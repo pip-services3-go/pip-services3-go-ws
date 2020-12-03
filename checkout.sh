@@ -13,5 +13,10 @@ git clone git@github.com:pip-services3-go/pip-services3-prometheus-go.git
 git clone git@github.com:pip-services3-go/pip-services3-mqtt-go.git
 git clone git@github.com:pip-services3-go/pip-services3-couchbase-go.git
 git clone git@github.com:pip-services3-go/pip-services3-memcached-go.git
+git clone git@github.com:pip-services3-go/pip-services3-postgres-go.git
+git clone git@github.com:pip-services3-go/pip-services3-aws-go.git
+git clone git@github.com:pip-services3-go/pip-services3-expressions-go.git
+git clone git@github.com:pip-services3-go/pip-services3-rabbitmq-go.git
+git clone git@github.com:pip-services3-go/pip-services3-redis-go.git
 
 git clone git@github.com:pip-templates/pip-templates-microservice-go.git
