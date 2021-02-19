@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env pwsh
 
 git clone git@github.com:pip-services3-go/pip-services3-commons-go.git
 git clone git@github.com:pip-services3-go/pip-services3-components-go.git
@@ -19,7 +19,7 @@ git clone git@github.com:pip-services3-go/pip-services3-expressions-go.git
 git clone git@github.com:pip-services3-go/pip-services3-rabbitmq-go.git
 git clone git@github.com:pip-services3-go/pip-services3-redis-go.git
 git clone git@github.com:pip-services3-go/pip-services3-sqlite-go.git
+git clone git@github.com:pip-services3-go/pip-services3-sqlserver-go.git
+git clone git@github.com:pip-services3-go/pip-services3-mysql-go.git
 git clone git@github.com:pip-services3-go/pip-services3-datadog-go.git
 git clone git@github.com:pip-services3-go/pip-services3-swagger-go.git
-
-git clone git@github.com:pip-templates/pip-templates-microservice-go.git
