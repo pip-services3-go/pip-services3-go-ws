@@ -23,3 +23,5 @@ git clone git@github.com:pip-services3-go/pip-services3-sqlserver-go.git
 git clone git@github.com:pip-services3-go/pip-services3-mysql-go.git
 git clone git@github.com:pip-services3-go/pip-services3-datadog-go.git
 git clone git@github.com:pip-services3-go/pip-services3-swagger-go.git
+git clone git@github.com:pip-services3-go/pip-services3-kafka-go.git
+git clone git@github.com:pip-services3-go/pip-services3-nats-go.git
